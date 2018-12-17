@@ -19,22 +19,22 @@ The Galactic Center was taken from
 The Astrophysical Journal, Volume 518, Issue 1, pp. L33-L35.
 
 The data are:
-traditional name (no leading blanks in field)
-nomenclature name (no leading blanks in field)
-equinox (must be either '1950' or '2000' or 'ICRS')
-right ascension hours
-             minutes
-             seconds
-declination   degrees
-             minutes
-             seconds
-proper motion in right asc., time seconds per century * cos(decl0)
-             in decl., arc seconds per century
-radial velocity in km/s
-annual parallax
-magnitude
-DM zone (Durchmusterung zone; declination 1900)
-DM number
+- traditional name (no leading blanks in field)
+- nomenclature name (no leading blanks in field)
+- equinox (must be either '1950' or '2000' or 'ICRS')
+- right ascension hours
+- right ascension minutes
+- right ascension seconds
+- declination degrees
+- declination minutes
+- declination seconds
+- proper motion in right asc., time seconds per century * cos(decl0)
+- proper motion in decl., arc seconds per century
+- radial velocity in km/s
+- annual parallax
+- magnitude
+- DM zone (Durchmusterung zone; declination 1900)
+- DM number
 
 18 Dec 2018 (Seraphim Dos Santos):
 JSON conversion with constellation in key
