@@ -36,5 +36,5 @@ The data are:
 - DM zone (Durchmusterung zone; declination 1900)
 - DM number
 
-18 Dec 2018 (Seraphim Dos Santos):
+17 Dec 2018 (Seraphim Dos Santos):
 JSON conversion with constellation in key
